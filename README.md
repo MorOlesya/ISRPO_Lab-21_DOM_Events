@@ -33,3 +33,6 @@
 - todo.css
 - todo.html
 - todo.js
+- task2.css
+- task2.html
+- task2.js
